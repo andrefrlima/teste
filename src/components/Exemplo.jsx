@@ -1,5 +1,5 @@
 const Exemplo = () => {
-    const name = 'André';
+    const name = 'André Lima';
 
     return (
         // Precisa de um elemento principal
